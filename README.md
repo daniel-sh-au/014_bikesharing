@@ -17,17 +17,21 @@ Since the majority of businesses are in that region, workers are likely using Ci
 
 ![summary.png](https://github.com/daniel-sh-au/UofT_DataBC_Module14_bikesharing/blob/main/Resources/summary.png)
 
-
+The checkout times represent the duration of each trip. The left chart represents the checkout times for all users and the right chart is seperated by gender. From the left chart, we can see that the majority of all users are riding for 0-60 minutes and that most users are riding between 4-7 minutes. We can see similar trends on the right graph for each gender. These charts indicate that most users are only riding for a few blocks and pick-up/drop-up stations should be located at a maximum of 5-10 minutes apart at popular areas. 
 
 ![checkout_times.png](https://github.com/daniel-sh-au/UofT_DataBC_Module14_bikesharing/blob/main/Resources/checkout_times.png)
 
+Trips by Weekday per Hour displays the most popular time to ride a CitiBike throughout the week. Both charts convey the same information, but the right chart is seperated by gender. From the left chart, we can see that the most popular times to ride are 7-9am and 5-6pm for weekdays. During the weekend, the most popular times are 11am-4pm for Saturdays and 1pm-4pm for Sundays. The same trends can be observed for the right chart except that the majority of riders are male. During a weekday, it can be assumed that most riders are using CitiBike to travel to and from work. For weekends, ridership occurs mainly in the afternoon, possibly just for leisure. 
 
 ![trips_weekday_per_hour.png](https://github.com/daniel-sh-au/UofT_DataBC_Module14_bikesharing/blob/main/Resources/trips_weekday_per_hour.png)
 
+This final chart shows the number of trips for each gender at each day of the week. This data further supports the previous observations. It can be observed that ridership is higher for men than women. Additionally, ridership is higher during a weekday especially on Thursdays and Fridays.  
 
 ![trips_usertype.png](https://github.com/daniel-sh-au/UofT_DataBC_Module14_bikesharing/blob/main/Resources/trips_usertype.png)
 
-
-
 ## Summary
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+In conclusion, all these findings can be applied to successfully implement a bike sharing program in Des Moines, Iowa. The program will recieve the most users during a weekday between 7-9am and 5-6pm as the population is commuting to and from work. The majority of rides will occur in the downtown region, which will require the most maintenance in the future. This maintenance should be performed during low usage times, around 1-3am. 
+
+For future analysis, it may be beneficial to include a visualization for 

@@ -32,7 +32,7 @@ Trips by Weekday per Hour displays the most popular time to ride a CitiBike thro
 ### User Trips by Gender by Weekday
 ![trips_usertype.png](https://github.com/daniel-sh-au/UofT_DataBC_Module14_bikesharing/blob/main/Resources/trips_usertype.png)
 
-This final chart shows the number of trips for each gender at each day of the week. This data further supports the previous observations. It can be observed that ridership is higher for men than women. Additionally, ridership is higher during a weekday especially on Thursdays and Fridays.  
+This final chart shows the number of trips for each gender at each day of the week. This data further supports the previous observations. It can be observed that ridership is higher for men than women. Additionally, ridership for subscribers is higher during a weekday especially on Thursdays and Fridays. It can be noted that ridership for short-term customers is higher during the weekend. 
 
 ## Summary
 In conclusion, all these findings can be applied to successfully implement a bike sharing program in Des Moines, Iowa. The program will receive the most users during a weekday between 7-9am and 5-6pm as the population is commuting to and from work. Most rides will occur in the downtown region, which will require the most maintenance in the future. This maintenance should be performed during low usage times, around 1-3am. 
